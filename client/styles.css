@@ -1,0 +1,8 @@
+body {
+    font-family: monospace;
+}
+
+.close-btn, .edit-btn {
+    max-width: 1.5em;
+    cursor: pointer;
+}
